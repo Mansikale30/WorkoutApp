@@ -28,55 +28,55 @@ Initially, the Workout screen will appear empty. Once you add a workout log, the
 
 ## Setup Instructions
 
-##### Step 1: Clone the Repository
+#### Step 1: Clone the Repository
 
-Open Terminal and run:
+##### Open Terminal and run:
 
-⁠ bash
-git clone https://github.com/Mansikale30/WorkoutApp.git
+⁠ ###### bash
+###### git clone https://github.com/Mansikale30/WorkoutApp.git
  ⁠
 
-### Step 2: Open Project Folder
+#### Step 2: Open Project Folder
 
-⁠ bash
-cd WorkoutApp
+⁠ ###### bash
+###### cd WorkoutApp
  ⁠
 
-### Step 3: Open Project in Xcode
+#### Step 3: Open Project in Xcode
 
-Double-click:
+###### Double-click:
 
-⁠ text
-Workout APP.xcodeproj
+⁠###### text
+###### Workout APP.xcodeproj
  ⁠
 
-### Step 4: Select Simulator
+#### Step 4: Select Simulator
 
-In Xcode:
-•⁠  ⁠Click the device selector at the top.
-•⁠  ⁠Choose any iPhone Simulator (e.g., iPhone 16).
+###### In Xcode:
+###### •⁠  ⁠Click the device selector at the top.
+###### •⁠  ⁠Choose any iPhone Simulator (e.g., iPhone 16).
 
-### Step 5: Run the Application
+#### Step 5: Run the Application
 
-Press:
+###### Press:
 
-⁠ text
-Command + R
+⁠###### text
+###### Command + R
  ⁠
 
-or click the ▶ Run button in Xcode.
+###### or click the ▶ Run button in Xcode.
 
-### Step 6: Use the App
+#### Step 6: Use the App
 
-•⁠  ⁠View workouts
-•⁠  ⁠Add a workout
-•⁠  ⁠Delete a workout
+###### •⁠  ⁠View workouts
+###### •⁠  ⁠Add a workout
+###### •⁠  ⁠Delete a workout
 
-### Step 7: Verify Data Persistence
+#### Step 7: Verify Data Persistence
 
-•⁠  ⁠Close the app.
-•⁠  ⁠Run it again.
-•⁠  ⁠Previously saved workouts should still be available because data is stored using Core Data.
+###### •⁠  ⁠Close the app.
+###### •⁠  ⁠Run it again.
+###### •⁠  ⁠Previously saved workouts should still be available because data is stored using Core Data.
 
 
-Developer - Mansi Kale
+#### Developer - Mansi Kale
