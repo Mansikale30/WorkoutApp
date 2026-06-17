@@ -28,7 +28,7 @@ Initially, the Workout screen will appear empty. Once you add a workout log, the
 
 ## Setup Instructions
 
-### Step 1: Clone the Repository
+##### Step 1: Clone the Repository
 
 Open Terminal and run:
 
